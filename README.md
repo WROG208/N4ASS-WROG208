@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...HTTPS://www.lonewolfsystem.org
 - 😄 Pronouns: ...I'm a MALE End of Story
-- ⚡ Fun fact: ...I drive oversized loads in a big 18-wheeler 
+- ⚡ Fun fact: ...I drive oversized loads in a big 18-wheeler
+- ⚡ Currently back in School AI-Enabled Healthcare IT Technician
 
 <!---
 WROG208/WROG208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
